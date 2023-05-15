@@ -1,0 +1,67 @@
+h1 {
+  font-size: 80px;
+}
+
+/* 
+Basic Selectors
+1. Universal Selector (*)
+2. Id Selector (#)
+3. Class Selector (.)
+4. Attribute Selector [attr] [attr=value]
+
+Combinator Selectors
+1. Descendant Combinator " " 
+2. Child Selector ">"
+3. Adjacent Sibling Selector "+"
+4. General Sibling Selector "~"
+
+Pseudo-class selectors :
+Pseudo-element Selectors ::
+*/
+
+/* 
+
+Origin types
+
+User-agent
+Author
+User 
+
+Cascading
+
+Relevance
+Origin and Importance
+Specificty
+Order of Appearance
+
+ua fl
+ua ll
+ua ul
+u fl
+u ll
+u ul
+a fl
+a ll
+a ul
+a in
+animations
+a ul imp
+a ll i
+a fl i
+a in i
+u ul i
+u ll i
+u fl i
+ua ul i
+ua ll i
+ua fl i
+transitions
+
+
+specifity
+id class element
+
+has() not() is()
+where() *
+
+*/
